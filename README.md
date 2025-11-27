@@ -120,9 +120,9 @@ Includes:
 
 ## 🖼️ Dashboard Preview
 
-*(Replace `IMAGE_LINK_HERE` with your GitHub image link)*
 
-![Dashboard Preview](IMAGE_LINK_HERE)
+
+![Dashboard Preview](https://github.com/BishalMishra-Hub/global-financial-performance-dashboard/blob/main/Dashboard.png)
 
 ---
 
