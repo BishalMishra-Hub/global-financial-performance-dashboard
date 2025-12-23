@@ -1,3 +1,12 @@
+<div align="center" style="background:#0b1020;padding:24px;border-radius:12px;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c4dff&height=200&section=header&text=Global%20Companies%20Overview%20&fontSize=45&fontColor=ffffff&animation=fadeIn"
+    alt="Marketing Campaign Data Cleaning"
+    style="border-radius:10px; box-shadow:0 8px 30px rgba(124,77,255,0.35),
+           0 0 40px rgba(0,229,255,0.12); display:block; max-width:100%;"
+  />
+</div>
+
 # 📊 Global Companies Financial Performance Dashboard (2024)
 *A Power BI project analyzing Sales, Profit, Market Value & Profit Margins for the world’s top 2000 companies.*
 
