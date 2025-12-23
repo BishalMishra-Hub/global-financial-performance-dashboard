@@ -12,10 +12,9 @@
 
 ---
 
-## 📘 Project Overview
+## 📘 About This Project
 
-This Power BI dashboard provides a comprehensive financial analysis of the **Top 2000 Global Companies (2024)**.  
-The report highlights global corporate performance across key financial indicators such as:
+This dashboard gives a clear picture of the **Top 2000 Global Companies (2024)**. It’s designed to help anyone quickly understand how companies perform financially across the world. You can explore metrics like:
 
 - Total Sales  
 - Total Profit  
@@ -24,63 +23,63 @@ The report highlights global corporate performance across key financial indicato
 - Country-wise performance  
 - Top revenue-generating companies  
 
-The dashboard is fully interactive and designed for quick insights, trend recognition, and comparative analysis across countries and companies.
+Everything is interactive, so you can spot trends, compare companies, and get actionable insights in minutes.
 
 ---
 
-## 🗂️ Dataset Information
+## 🗂️ Dataset Details
 
 **Dataset:** Top 2000 Companies Financial Data 2024  
 **Key Columns:**
 
-- Name (Company Name)  
+- Company Name  
 - Country  
 - Sales  
 - Profit  
 - Assets  
 - Market Value  
 
-Dataset Source: Publicly available 2024 global corporate financial dataset.
+**Source:** Publicly available 2024 dataset on global companies.
 
 ---
 
-## 🎯 Key Objectives
+## 🎯 What I Wanted to Achieve
 
-- Analyze global corporate financial performance  
-- Identify top-performing companies by Sales & Profit  
-- Understand country-wise contributions  
-- Evaluate profitability using calculated Profit Margin  
-- Build an interactive Power BI dashboard for business insights  
-
----
-
-## 📈 KPIs (Key Metrics)
-
-The dashboard highlights four important KPIs:
-
-- **Total Sales**
-- **Total Profit**
-- **Average Profit Margin (%)**
-- **Total Market Value**
-
-These provide a high-level snapshot of global company performance.
+- See how global companies perform financially  
+- Identify the top performers by Sales and Profit  
+- Compare companies across different countries  
+- Analyze profitability through Profit Margins  
+- Build an interactive dashboard that’s easy to explore
 
 ---
 
-## 📊 Visuals Included in the Dashboard
+## 📈 Key Metrics (KPIs)
 
-### 1️⃣ KPI Cards  
+The dashboard highlights four main KPIs:
+
+- **Total Sales**  
+- **Total Profit**  
+- **Average Profit Margin (%)**  
+- **Total Market Value**  
+
+These give a quick overview of global corporate performance.
+
+---
+
+## 📊 Dashboard Features
+
+### 1️⃣ KPI Cards
 - Total Sales  
 - Total Profit  
 - Avg Profit Margin %  
 - Total Market Value  
 
-### 2️⃣ Bar Charts  
+### 2️⃣ Bar Charts
 - **Sales by Country**  
 - **Top 10 Companies by Sales**
 
-### 3️⃣ Financial Overview Table  
-Includes:
+### 3️⃣ Financial Overview Table
+Includes:  
 - Company Name  
 - Country  
 - Total Sales  
@@ -88,67 +87,65 @@ Includes:
 - Avg Profit Margin %  
 - Total Market Value  
 
-### 4️⃣ Slicers (Filters)
-- **Country Slicer**  
-- **Company Name Search Slicer**
-- **Reset Filters Button**
+### 4️⃣ Filters & Slicers
+- **Country filter**  
+- **Search by Company Name**  
+- **Reset filters button**
 
 ---
 
-## 💡 Insights & Findings
+## 💡 Key Insights
 
-- The **United States** leads with the highest global sales and market value.  
-- Companies like **Walmart, Amazon, and Saudi Aramco** dominate global revenue rankings.  
-- Many global companies operate with **low to moderate profit margins**, highlighting cost-intensive business models.  
-- **Technology and energy sectors** hold massive market valuations.  
-- A few countries contribute the majority of the world's corporate revenue and wealth.
+- The **United States** is leading in both sales and market value.  
+- Companies like **Walmart, Amazon, and Saudi Aramco** are at the top of the global revenue list.  
+- Many companies operate with **low to moderate profit margins**, showing how costly some industries are.  
+- **Tech and energy sectors** have the largest market valuations.  
+- A few countries contribute most of the world’s corporate revenue and wealth.
 
 ---
 
-## 🔧 Tools & Technologies Used
+## 🔧 Tools I Used
 
 - **Power BI Desktop**  
-- **DAX Measures**  
+- **DAX calculations**  
 - **CSV Dataset**  
-- **GitHub for Documentation**
+- **GitHub for project documentation**
 
 ---
 
-## 📥 Files in This Repository
+## 📥 Files Included
 
 | File | Description |
 |------|-------------|
 | `Global_Companies_Financial_Dashboard.pbix` | Power BI report file |
-| `Financial_Dashboard_Report.pdf` | Exported high-quality PDF report |
+| `Financial_Dashboard_Report.pdf` | Exported PDF report |
 | `Dashboard.png` | Dashboard screenshot |
 | `Top 2000 Companies Financial Data 2024.csv` | Original dataset |
-| `Insights.txt` | Insights and summary |
-| `README.md` | Documentation |
+| `Insights.txt` | Summary of insights |
+| `README.md` | This documentation |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-
-
 ![Dashboard Preview](https://github.com/BishalMishra-Hub/global-financial-performance-dashboard/blob/main/Dashboard.png)
 
 ---
 
-## 🚀 How to Use This Dashboard
+## 🚀 How to Use
 
 1. Download the `.pbix` file  
-2. Open it using **Power BI Desktop**  
-3. Explore the dashboard using slicers and filters  
-4. Analyze KPIs, charts, and the detailed financial overview table  
+2. Open it in **Power BI Desktop**  
+3. Use the slicers and filters to explore the data  
+4. Analyze KPIs, charts, and the financial overview table
 
 ---
 
-## 👤 Author
+## 👤 About Me
 
 **Bishal Kumar Mishra**  
 Data Analyst | Power BI Developer  
-🔗 LinkedIn: https://www.linkedin.com/in/bishal-kumar-mishra-5359a9362/
+🔗 LinkedIn: [Bishal Kumar Mishra](https://www.linkedin.com/in/bishal-kumar-mishra-5359a9362/)
 
 ---
 
